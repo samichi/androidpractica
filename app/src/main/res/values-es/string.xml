@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">My Application</string>
     <string name="name">Isabel Leon</string>
-    <string name="welcome">Hello</string>
-
+    <string name="welcome">Hola</string>
 </resources>
